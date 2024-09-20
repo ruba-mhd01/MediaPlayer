@@ -1,0 +1,12 @@
+to install json-server:-
+----------------------
+mediaplayer,mp-server =>cmd =>
+npm init -y
+npm i json-server@0.17.0
+
+
+
+react-toastify:-
+--------------
+-styled alert package for react
+-npm i react-toastify(to install react-toastify)
